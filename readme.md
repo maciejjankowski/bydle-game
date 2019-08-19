@@ -1,7 +1,11 @@
 # Bydle game
 
-# Zasobyt / assety
+
+# Zasodby / assety
+* Na drive
+
 # Scenariusz
+* jest na drive
 
 # Levele
-
+* opisane levele na drive
